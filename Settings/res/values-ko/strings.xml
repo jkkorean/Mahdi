@@ -628,7 +628,7 @@
     <string name="tts_weekday_pattern">eeee</string>
     <string name="custom_settings_category">사용자 지정</string>
     <string name="customization_settings_title">사용자 설정</string>
-    <string name="mod_version">Mahdi 롬 버전</string>
+    <string name="mod_version">빌드 버전</string>
     <string name="mod_version_default">알수없음</string>
     <string name="build_date_default">2012-01-01-0000</string>
     <string name="reset">초기화</string>
@@ -644,6 +644,7 @@
     <string name="notification_light_title">알림등</string>
     <string name="notification_light_choose_app">애플리케이션 선택</string>
     <string name="notification_light_add">추가</string>
+	<string name="screen_on_notification_led_title">화면 켜짐시 알림 표시등</string>
     <string name="screen_on_notification_led_summary">화면이 켜져있을 경우에도 알림 표시등을 사용</string>
     <string name="picker_arrow">→</string>
     <string name="power_menu_summary">전원 메뉴 목록보기 또는 변경</string>
@@ -763,7 +764,6 @@
     <string name="custom_tile_resolve_name">알수없음</string>
     <string name="title_tile_theme">테마 전환기</string>
     <string name="title_tile_batterysaver">배터리 절약 모드</string>
-    <string name="title_dynamic_equalizer">이퀄라이저</string>
     <string name="smart_pulldown_title">스마트 풀다운</string>
     <string name="smart_pulldown_summary">%1$s 알림이 없는 경우 빠른 설정을 엽니다</string>
     <string name="smart_pulldown_off">사용 안함</string>
