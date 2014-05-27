@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="list_card_undo_items">
+        <item quantity="other">%d개 카드가 제거 되었습니다</item>
+        <item quantity="one">1개 카드가 제거 되었습니다</item>
+    </plurals>
+    <plurals name="card_selected_items">
+        <item quantity="other">%d개 아이템이 선택되었습니다</item>
+        <item quantity="one">1개 아이템이 선택되었습니다</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">최근에 사용한 앱 %d개</item>
+        <item quantity="one">최근에 사용한 앱 1개</item>
+    </plurals>
+</resources>
