@@ -647,7 +647,7 @@
     <string name="screen_on_notification_led_summary">화면이 켜져있을 경우에도 알림 표시등을 사용</string>
     <string name="picker_arrow">→</string>
     <string name="power_menu_summary">전원 메뉴 목록보기 또는 변경</string>
-    <string name="power_menu_screenrecord_title">화면 녹화</string>
+    <string name="power_menu_screenrecord_title">화면 녹음</string>
     <string name="power_menu_expanded_desktop">전체 화면 모드</string>
     <string name="power_menu_mobile_data">모바일 데이터</string>
     <string name="profiles_general_title">일반</string>
@@ -749,7 +749,7 @@
     <string name="title_tile_navbar">네비게이션 바</string>
     <string name="title_tile_network_traffic">네트워크 트래픽</string>
     <string name="title_tile_music">음악</string>
-    <string name="title_tile_quick_record">빠른 녹화</string>
+    <string name="title_tile_quick_record">빠른 녹음</string>
     <string name="title_tile_contact">연락처</string>
     <string name="title_tile_custom">사용자 지정</string>
     <string name="custom_tile_dialog_text">각 동작을 타일에 새로운 상태를 추가합니다. 클릭할 때마다 다음 상태로 변경합니다. 길게 눌러서 길게 누를시 동작을 추가합니다. 클릭 동작이 존재하지 않으면 길가 누름 동작 아이콘은 타일을 위해 사용됩니다. 클릭하여 상태를 변경하고 길게 눌러 동작을 시작할수 있습니다.</string>
@@ -1115,8 +1115,8 @@
     <string name="show_network_traffic_2000">2000 ms</string>
     <string name="show_activity_indicators_on_status_bar_title">활동 표시</string>
     <string name="show_activity_indicators_on_status_bar_summary">신호바에 표시</string>
-    <string name="screen_recorder_title">화면 녹화</string>
-    <string name="screen_recorder_summary">스크린 녹화 설정 조정</string>
+    <string name="screen_recorder_title">화면 녹음</string>
+    <string name="screen_recorder_summary">스크린 녹음 설정 조정</string>
     <string name="screen_recorder_video_dimensions_title">영상 크기</string>
     <string name="screen_recorder_video_bitrate_title">비트 레이트</string>
     <string name="screen_recorder_record_audio_title">오디오 녹음</string>
@@ -1397,7 +1397,7 @@
     <string name="animation_scroll_friction_title">스크롤 마찰</string>
     <string name="animation_overscroll_distance_title">오버스크롤 거리</string>
     <string name="animation_overfling_distance_title">오버플링 거리</string>
-    <string name="animation_duration_summary">설정 지속시간</string>
+    <string name="animation_duration_summary">지속시간 설정</string>
     <string name="animation_no_scroll_title">커스터마이징 스크롤</string>
     <string name="animation_no_scroll_summary_on">사용함</string>
     <string name="animation_no_scroll_summary_off">사용 안함</string>
@@ -1774,12 +1774,6 @@
     <string name="volume_steps_ring_title">벨소리</string>
     <string name="volume_steps_system_title">시스템</string>
     <string name="volume_steps_voice_call_title">음성 통화</string>
-    <string name="app_circle_bar_title">앱 사이드 바</string>
-    <string name="app_circle_sidebar_summary_real">사이드 바에서 빠르게 앱을 실행하고 하나의 멀티 태스킹 화면에 여러개의 앱을 엽니다</string>
-    <string name="app_circle_bar_summary">화면 오른쪽을 터치하여 앱 런처를 표시</string>
-    <string name="app_circle_bar_included_apps_title">포함된 앱</string>
-    <string name="app_circle_bar_included_apps_summary">앱이 앱 사이드 바에 표시됩니다</string>
-    <string name="category_app_circle_bar_title">앱 런처</string>
     <string name="yes">예</string>
     <string name="no">아니요</string>
     <string name="create">만들기</string>
@@ -3725,5 +3719,4 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="user_image_take_photo">사진 촬영</string>
     <string name="user_image_choose_photo">갤러리에서 사진 선택</string>
     <string name="regulatory_info_text" />
-    <string name="notification_light_screenon_title">화면 켜짐시 사용</string>
 </resources>
